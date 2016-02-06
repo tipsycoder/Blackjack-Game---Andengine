@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_item_buttons.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:69181b388d0bafbc844736150e9329e9$ -->
+    <textureregion id="0" src="double_down_button.png" x="412" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="1" src="hit_button.png" x="330" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="2" src="insurance_button.png" x="412" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="3" src="max_bet_button.png" x="330" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="4" src="min_bet_button.png" x="248" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="5" src="minus_button.png" x="248" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="6" src="next_stage_button.png" x="166" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="7" src="place_bet_button.png" x="166" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="8" src="play_again_button.png" x="84" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="9" src="plus_button.png" x="84" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="10" src="stand_button.png" x="2" y="244" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+    <textureregion id="11" src="surrender_button.png" x="2" y="2" width="80" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="240"/>
+</texture>

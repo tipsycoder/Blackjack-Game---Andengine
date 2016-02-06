@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Spade_Set.png" type="bitmap" width="512" height="512" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:96c7ccdaa8add5faa91609aa7e1d8d7e:e838637bb592ffb01ef1b2f0d33fb526:d5dd875db6ee0cbd9e36b420a4c6725a$ -->
+    <textureregion id="0" src="a_ace_spade.jpg" x="262" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="1" src="b_two_spade.jpg" x="132" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="2" src="c_three_spade.jpg" x="132" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="3" src="d_four_spade.jpg" x="132" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="4" src="e_five_spade.jpg" x="262" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="5" src="f_six_spade.jpg" x="132" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="6" src="g_seven_spade.jpg" x="2" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="7" src="h_eight_spade.jpg" x="2" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="8" src="i_nine_spade.jpg" x="2" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="9" src="j_ten_spade.jpg" x="2" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="10" src="k_jack_spade.jpg" x="262" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="11" src="l_queen_spade.jpg" x="132" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="12" src="m_king_spade.jpg" x="2" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+</texture>

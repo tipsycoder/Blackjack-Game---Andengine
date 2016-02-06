@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="loader_pic_texture.png" type="bitmap" width="512" height="64" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:43cbbf32aebd379a930d604f4eb4cce4:309fdc2ebf53ec967a122474846ea51d:3a0f63b61a502a02c2d9755fd5692cad$ -->
+    <textureregion id="0" src="loading_pic.png" x="2" y="2" width="281" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="281" srcheight="56"/>
+</texture>

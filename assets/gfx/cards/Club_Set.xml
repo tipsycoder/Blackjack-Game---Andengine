@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Club_Set.png" type="bitmap" width="512" height="512" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:3342c6286abb2569640c42081681490a:a3abcd8144938612ea15d92989ab0e28:5d6ceb14d0a6fb39f775be1642d65515$ -->
+    <textureregion id="0" src="a_ace_club.jpg" x="262" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="1" src="b_two_club.jpg" x="132" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="2" src="c_three_club.jpg" x="132" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="3" src="d_four_club.jpg" x="132" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="4" src="e_five_club.jpg" x="262" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="5" src="f_six_club.jpg" x="132" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="6" src="g_seven_club.jpg" x="2" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="7" src="h_eight_club.jpg" x="2" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="8" src="i_nine_club.jpg" x="2" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="9" src="j_ten_club.jpg" x="2" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="10" src="k_jack_club.jpg" x="262" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="11" src="l_queen_club.jpg" x="132" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="12" src="m_king_club.jpg" x="2" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+</texture>

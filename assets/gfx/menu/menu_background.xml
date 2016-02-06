@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="menu_background.jpg" type="bitmap" width="1024" height="512" pixelformat="RGB_565" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:6b1a2602100a9212f533efacddfc5fb6:e5278b971f613bfd6c6dae58422b3391:20c9b68988dd7226e684946863a6c0d0$ -->
+    <textureregion id="0" src="menu_background.jpg" x="2" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+</texture>

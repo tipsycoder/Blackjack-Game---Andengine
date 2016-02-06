@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="exit_dialog.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:418542f74395db737184e8f3047bf996$ -->
+    <textureregion id="0" src="dialog_box_bg.png" x="2" y="2" width="400" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="300"/>
+    <textureregion id="1" src="dialog_box_no_button.png" x="404" y="109" width="100" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="105"/>
+    <textureregion id="2" src="dialog_box_yes_button.png" x="404" y="2" width="100" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="105"/>
+</texture>

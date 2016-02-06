@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_background.png" type="bitmap" width="1028" height="806" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:c47932410346661c2b764bc80c7bd180:e834c35999bb6492c30281cc4e3dc42b:13b1e22e1655375ffb7f10ca24cb2d98$ -->
+    <textureregion id="0" src="game_background.png" x="2" y="2" width="1024" height="800" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1024" srcheight="800"/>
+</texture>

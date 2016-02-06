@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_over_sprite.png" type="bitmap" width="512" height="256" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:00c179089fc72f07f1638f7d59ff097e:b73ea22d323d663d9999c62bc0330542:7f1b020bcbf56fa5b1333ce6f54e2921$ -->
+    <textureregion id="0" src="burst.png" x="2" y="2" width="358" height="58" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="358" srcheight="58"/>
+    <textureregion id="1" src="lose.png" x="203" y="62" width="274" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="274" srcheight="56"/>
+    <textureregion id="2" src="n_21.png" x="362" y="2" width="84" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="84" srcheight="56"/>
+    <textureregion id="3" src="tie.png" x="2" y="123" width="169" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="169" srcheight="56"/>
+    <textureregion id="4" src="win.png" x="2" y="62" width="199" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="199" srcheight="59"/>
+</texture>

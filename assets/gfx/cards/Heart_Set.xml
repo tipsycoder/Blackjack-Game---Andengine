@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Heart_Set.png" type="bitmap" width="512" height="512" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:7fc238a719e02ff4949f61b608685ae7:069f9e90606166bef68ed2f16ce98b7a:be94ee37adb837ac49019f732d837b93$ -->
+    <textureregion id="0" src="a_ace_heart.jpg" x="262" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="1" src="b_two_heart.jpg" x="132" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="2" src="c_three_heart.jpg" x="132" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="3" src="d_four_heart.jpg" x="132" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="4" src="e_five_heart.jpg" x="262" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="5" src="f_six_heart.jpg" x="132" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="6" src="g_seven_heart.jpg" x="2" y="394" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="7" src="h_eight_heart.jpg" x="2" y="296" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="8" src="i_nine_heart.jpg" x="2" y="198" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="9" src="j_ten_heart.jpg" x="2" y="100" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="10" src="k_jack_heart.jpg" x="262" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="11" src="l_queen_heart.jpg" x="132" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+    <textureregion id="12" src="m_king_heart.jpg" x="2" y="2" width="128" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="96"/>
+</texture>
